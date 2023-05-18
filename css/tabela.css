@@ -1,0 +1,9 @@
+.tabela_titulo-esquerda{
+    border-top-left-radius: 5px;
+}
+.tabela_titulo-direita{
+    border-top-right-radius: 5px;
+}
+.tabela{
+    min-width: 600px;
+}
